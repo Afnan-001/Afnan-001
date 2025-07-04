@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kinghakai" target="blank"><img src="https://img.shields.io/twitter/follow/kinghakai?logo=twitter&style=for-the-badge" alt="kinghakai" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **AI and Machine Learning**
 
 - 💬 Ask me about **DSA, App Dev , Web Dev**
 
